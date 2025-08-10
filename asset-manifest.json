@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vynaAgro/static/css/main.b4200b50.css",
+    "main.js": "/vynaAgro/static/js/main.2e599388.js",
+    "static/js/453.a3c1d153.chunk.js": "/vynaAgro/static/js/453.a3c1d153.chunk.js",
+    "static/media/jaggery3.avif": "/vynaAgro/static/media/jaggery3.a55093ec6c72c9e482fe.avif",
+    "index.html": "/vynaAgro/index.html",
+    "main.b4200b50.css.map": "/vynaAgro/static/css/main.b4200b50.css.map",
+    "main.2e599388.js.map": "/vynaAgro/static/js/main.2e599388.js.map",
+    "453.a3c1d153.chunk.js.map": "/vynaAgro/static/js/453.a3c1d153.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4200b50.css",
+    "static/js/main.2e599388.js"
+  ]
+}
