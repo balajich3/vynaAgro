@@ -1,0 +1,21 @@
+.dashboard {
+  max-width: 600px;
+  margin: 60px auto;
+  background: #f9f9f9;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.dashboard h2 {
+  font-size: 28px;
+  margin-bottom: 25px;
+  color: #2c3e50;
+}
+
+.user-details p {
+  font-size: 18px;
+  margin: 12px 0;
+  color: #34495e;
+}
